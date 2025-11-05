@@ -1,4 +1,4 @@
-# 🎓 Sistema de Gestión Académica 
+# Sistema de Gestión Académica 
 
 **Descripción**  
 Sistema de Gestión Académica diseñado para gestionar estudiantes, docentes, cursos, horarios y calificaciones, con el fin de optimizar procesos administrativos y mejorar la trazabilidad de la información.
